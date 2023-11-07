@@ -17,7 +17,10 @@ O dataset é composto por 1599 observações de vinhos tintos e 4898 observaçõ
 - pH: Refere-se ao `nível de pH` do vinho em uma escala de 0 a 14.
 - Sulfatos: É um `aditivo` que pode contribuir para os níveis de dióxido de enxofre no vinho.
 - Álcool: Refere-se ao `teor alcoólico` do vinho.
-  
+
+## Relatório - Power BI
+
+Acesse o Relatório do Power BI: Para visualizar o relatório do Power BI, clique no seguinte link: [Relatório do Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmEyMTA0NWItODM4OC00N2Y2LTg1MDktZjU5YmFjMmM1NzQ3IiwidCI6ImUzNGFkY2ZkLThiODktNGE1Ny1hYTFkLWQzMWM2Yjg1NDA5YiJ9).
 ## Bibliotecas
 
 ```python
@@ -239,3 +242,8 @@ fig.show()
 ```
 ![image](https://github.com/GustavoAkyama/wine-quality-predict/assets/110904070/49ad5e36-de7f-44b6-b0c3-801ddbe80a91)
 
+## Autor
+
+Gustavo Akyama
+
+https://www.linkedin.com/in/gustavoakyama/
