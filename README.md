@@ -106,7 +106,7 @@ plt.title('Principais fatores de influência', fontweight='bold', fontsize=15)
 
 plt.show()
 ```
-![image](https://github.com/GustavoAkyama/wine-quality-predict/assets/110904070/858ceb4d-b231-4a64-a19a-0bfee3adc0a5)
+![image](https://github.com/GustavoAkyama/wine-quality-predict/assets/110904070/82976b47-c8b7-4c4b-a1ce-817c6f0c55e3)
 
 ## Prevendo a Qualidade de um vinho
 A previsão será realizada por meio da média dos resultados dos algoritmos de aprendizado de máquina mais promissores. Dentre os métodos a serem testados, destacam-se:
